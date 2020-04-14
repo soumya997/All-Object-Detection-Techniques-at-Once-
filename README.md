@@ -5,4 +5,4 @@ https://www.kaggle.com/soumya9977/all-object-detection-techniques-at-once
 ## Dataset Link:
 https://www.kaggle.com/soumya9977/cv-object-detecton-dataset
 
-<font color="green" size=3>Please upvote this kernel if you like it. It motivates me to produce more quality content  :)</font>
+<font color="red" size=3>Please upvote this kernel if you like it. It motivates me to produce more quality content  :)</font>
