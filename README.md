@@ -1,5 +1,5 @@
 # -All-Object-Detection-Techniques-at-Once-
-This Notebook is totally based on different Object Detection Techniques that we can impliment using opencv:💻
+This Notebook 💻is totally based on different Object Detection Techniques that we can impliment using opencv:😎
 ## Kaggle Link:
 https://www.kaggle.com/soumya9977/all-object-detection-techniques-at-once
 ## Dataset Link:
